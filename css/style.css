@@ -1,0 +1,27 @@
+.header{
+    padding: 30px 0;
+    background-color: #FFF9F4;
+}
+.nb{
+    width: 20%;
+}
+.navp-0{
+    padding: 0;
+}
+.navimg{
+    width: 150px;
+}
+/* .nav-content ul{
+} */
+.nav-content ul li{
+    margin: 0 15px;
+}
+.nav-content ul li:last-child{
+    margin-right: 0;
+}
+.nav-content ul li a{
+    font-weight: 500;
+    color:black !important;
+    padding: 0;
+  
+}
