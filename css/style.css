@@ -22,11 +22,11 @@
 }
 .nav-content ul li a{
     font-weight: 500;
-    color:black !important;
+    color:black;
     padding: 0;
   
 }
-#sign{
+.sign{
     background-color: #21b573;
     border-radius: 50px;
     
@@ -35,3 +35,39 @@
 .sign a{
     color: white !important;
 }
+
+
+/* head end */
+.intro{
+    background-color: #f0fff0;
+}
+.lp{
+    color: #f98256 !important;
+}
+.icontent2{
+    padding: 90px 240px 90px 20px;
+}
+.icontent2 h1{
+    font-size: 48px;
+    font-weight: 700;
+    color: #363958;
+    margin-bottom: 30px;
+}
+.icontent2 h1 span{
+    color: #6acf9f;
+}
+.icontent2 p{
+    color:#3E3E3E ;
+}
+.btncustom{
+    margin-top: 10px;
+    width: 170px;
+    background-color: #21b573;
+    color: white;
+    height: 50px;
+    border-radius: 50px;
+}
+.btncustom:hover{
+    transform: scale(1.1);
+}
+/* intro end */
