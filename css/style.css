@@ -1,6 +1,6 @@
 .header{
     padding: 30px 0;
-    background-color: #FFF9F4;
+    background-color: #f0fff0;
 }
 .nb{
     width: 20%;
@@ -9,12 +9,13 @@
     padding: 0;
 }
 .navimg{
-    width: 150px;
+    width: 150px !important;
 }
 /* .nav-content ul{
 } */
 .nav-content ul li{
     margin: 0 15px;
+    padding: 5px;
 }
 .nav-content ul li:last-child{
     margin-right: 0;
@@ -24,4 +25,13 @@
     color:black !important;
     padding: 0;
   
+}
+#sign{
+    background-color: #21b573;
+    border-radius: 50px;
+    
+    
+}
+.sign a{
+    color: white !important;
 }
